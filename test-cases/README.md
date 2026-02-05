@@ -60,9 +60,18 @@ Only a subset of representative test cases is included for portfolio purposes.
 
 ---
 
-## 🧠 Notes
+## Notes
 - These test cases were selected to demonstrate different testing techniques:
   - Boundary Value Analysis
   - Validation testing
   - Happy path functional testing
 - Additional test cases were created and maintained in spreadsheet format during the project.
+
+## 📎 Additional Documentation
+
+The complete set of test cases for this project was originally documented
+in spreadsheet format during the testing phase.
+
+The file **urban-routes-test-cases-portuguese-version.xlsx** is included in
+this repository as a reference to the full testing scope and documentation
+process.
