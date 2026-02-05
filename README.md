@@ -18,7 +18,7 @@ Urban Routes is an application designed to help users plan and manage routes eff
 ## Tools used
 - Manual testing techniques
 - Jira (for bug tracking)
-- Test case documentation (structured following TestRail principles)
+- Test case documentation
 
 ## Key skills demonstrated
 - Test case design
