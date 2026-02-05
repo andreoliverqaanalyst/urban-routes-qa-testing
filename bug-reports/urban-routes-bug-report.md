@@ -27,3 +27,5 @@ The **Cancel** button on the "Car Reserved" pop-up is not clickable, preventing 
 
 **Severity:** High  
 **Priority:** High
+
+Evidence was attached in Jira (screenshots and screen recording).
